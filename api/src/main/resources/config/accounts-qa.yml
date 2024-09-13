@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank account related QA APIs"
+  contactDetails:
+    name: "Madan Reddy - QA Lead"
+    email: "contato@madanreddy.qa.br"
+  onCallSupport:
+    - (+55) 021 98765-4321
+    - (+55) 021 2256-5544

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank loan related local APIs"
+  contactDetails:
+    name: "Charles Babbage - Developer"
+    email: "contato@charlesbabbage.dev.br"
+  onCallSupport:
+    - (+55) 031 95874-4444
+    - (+55) 031 0800-1234

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank account related local APIs"
+  contactDetails:
+    name: "Jefferson Celestino - Developer"
+    email: "contato@jeffersoncelestino.dev.br"
+  onCallSupport:
+    - (+55) 031 99878-1111
+    - (+55) 031 3356-1111
