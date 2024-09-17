@@ -2,13 +2,20 @@ spring:
   application:
     name: "configserver"
   profiles:
-    active: native
+    active: git
+  # active: native
   cloud:
     config:
       server:
-        native:
+        # native:
           # search-locations: "classpath:/config"
-          search-locations: "file:///C://Users//Polaco//Documents//config"
+          # search-locations: "file:///C://Users//Polaco//Documents//config"
+        git:
+          uri: "https://github.com/Caelest1s/caelestis-config.git"
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
 
 server:
   port: 8071
