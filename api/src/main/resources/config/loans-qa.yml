@@ -1,10 +1,10 @@
 build:
   version: "2.0"
 
-accounts:
+loans:
   message: "Welcome to Bank loan related QA APIs"
   contactDetails:
-    name: "Tim Berners-Lee - QA Lead"
+    name: "Tim Berners-Lee - Quality Assurance Lead"
     email: "contato@timbernerslee.qa.br"
   onCallSupport:
     - (+55) 021 98765-4321

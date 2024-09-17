@@ -1,10 +1,10 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Welcome to Bank card related QA APIs"
   contactDetails:
-    name: "Luca Stricagnoli - QA Lead"
+    name: "Luca Stricagnoli - Quality Assurance Lead"
     email: "contato@lucastricagnoli.qa.br"
   onCallSupport:
     - (+55) 021 98765-4321
